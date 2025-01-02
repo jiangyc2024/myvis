@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jiangyuancheng/works/opengl/myvis/build",
+  "command": "/usr/local/gcc-14/bin/g++ -g -std=gnu++20 -o src/apps/ex01/CMakeFiles/ex01.dir/main.cpp.o -c /home/jiangyuancheng/works/opengl/myvis/src/apps/ex01/main.cpp",
+  "file": "/home/jiangyuancheng/works/opengl/myvis/src/apps/ex01/main.cpp",
+  "output": "src/apps/ex01/CMakeFiles/ex01.dir/main.cpp.o"
+}
+]

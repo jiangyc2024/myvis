@@ -1,0 +1,11 @@
+/home/jiangyuancheng/works/opengl/myvis/build/CMakeFiles/edit_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/CMakeFiles/rebuild_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/CMakeFiles/edit_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/CMakeFiles/rebuild_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/apps/CMakeFiles/edit_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/apps/CMakeFiles/rebuild_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/apps/ex01/CMakeFiles/ex01.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/apps/ex01/CMakeFiles/edit_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/src/apps/ex01/CMakeFiles/rebuild_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/tests/CMakeFiles/edit_cache.dir
+/home/jiangyuancheng/works/opengl/myvis/build/tests/CMakeFiles/rebuild_cache.dir
